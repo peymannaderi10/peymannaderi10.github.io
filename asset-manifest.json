@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/peymannaderi10.github.io/static/css/main.9b8be731.css",
-    "main.js": "/peymannaderi10.github.io/static/js/main.ae0d5997.js",
-    "static/media/profile.png": "/peymannaderi10.github.io/static/media/profile.0f2188589cef5deffc4c.png",
-    "static/media/project1.png": "/peymannaderi10.github.io/static/media/project1.93031865db8f4a8f1d15.png",
-    "static/media/project3.png": "/peymannaderi10.github.io/static/media/project3.4c85f6e3401381d4bbf8.png",
-    "static/media/project4.png": "/peymannaderi10.github.io/static/media/project4.90d9b1f09d85ba832d83.png",
-    "static/media/project2.png": "/peymannaderi10.github.io/static/media/project2.5136e5d8129bdf5352af.png",
-    "static/media/PeymanNaderi-CV.pdf": "/peymannaderi10.github.io/static/media/PeymanNaderi-CV.340923eba800b38bb051.pdf",
-    "static/media/project5.png": "/peymannaderi10.github.io/static/media/project5.6ddc085bc0d31b3c63f6.png",
-    "static/media/project6.jpg": "/peymannaderi10.github.io/static/media/project6.a22c939898d6c4613b65.jpg",
-    "index.html": "/peymannaderi10.github.io/index.html",
-    "main.9b8be731.css.map": "/peymannaderi10.github.io/static/css/main.9b8be731.css.map",
-    "main.ae0d5997.js.map": "/peymannaderi10.github.io/static/js/main.ae0d5997.js.map"
+    "main.css": "/static/css/main.9b8be731.css",
+    "main.js": "/static/js/main.9c3da60d.js",
+    "static/media/profile.png": "/static/media/profile.0f2188589cef5deffc4c.png",
+    "static/media/project1.png": "/static/media/project1.93031865db8f4a8f1d15.png",
+    "static/media/project3.png": "/static/media/project3.4c85f6e3401381d4bbf8.png",
+    "static/media/project4.png": "/static/media/project4.90d9b1f09d85ba832d83.png",
+    "static/media/project2.png": "/static/media/project2.5136e5d8129bdf5352af.png",
+    "static/media/PeymanNaderi-CV.pdf": "/static/media/PeymanNaderi-CV.340923eba800b38bb051.pdf",
+    "static/media/project5.png": "/static/media/project5.6ddc085bc0d31b3c63f6.png",
+    "static/media/project6.jpg": "/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/index.html",
+    "main.9b8be731.css.map": "/static/css/main.9b8be731.css.map",
+    "main.9c3da60d.js.map": "/static/js/main.9c3da60d.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8be731.css",
-    "static/js/main.ae0d5997.js"
+    "static/js/main.9c3da60d.js"
   ]
 }
