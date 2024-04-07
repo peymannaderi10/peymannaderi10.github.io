@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://peymannaderi10.github.io/peymannaderi10.github.io",
+  "homepage": "https://peymannaderi10.github.io",
   "private": true,
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
